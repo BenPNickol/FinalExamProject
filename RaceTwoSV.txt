@@ -1,0 +1,182 @@
+* Goblin :
+
+ * 25Ft Land Speed
+
+ * 5 Swim Speed
+
+ * Can't Fly
+
+ # -50% Environmental Resistance
+
+ - 3 Charisma
+
+ - 1 Strength
+
+ - 2 Intelligence
+
+ + 4 Dexterity
+
+ ^ Small ( 2 - 4Ft / 15 - 80 Pounds )
+
+
+
+* Orc :
+
+ * 15Ft Land Speed
+
+ * Can't Swim
+
+ * Can't fly
+
+ # +50% Environmental Resistance
+
+ - 5 Charisma
+
+ - 3 Dexterity
+
+ + 3 Strength
+
+ - 1 Intellagence
+
+ ^ Large ( 6 - 7Ft / 600+ Pounds )
+
+
+
+* Elf :
+
+ * 35Ft Land Speed
+
+ * 20Ft Swim Speed
+
+ * Can't Fly
+
+ # 100% Eye Sight Bonus
+
+ + 3 Charisma
+
+ + 2 Dexterity
+
+ - 0 Strength
+
+ + 1 Intellegance
+
+ ^ Medium ( 5 - 7Ft / 200 - 300 Pounds )
+
+
+* Human
+
+ * 30Ft Land Speed
+
+ * 15Ft Swim Speed
+
+ * Can't Fly
+
+ + 2 Charisma
+
+ + 1 Dexterity
+
+ - 0 Strength
+
+ + Intellegance
+
+ ^ Medium ( 4 - 6Ft / 100 - 300 Pounds
+
+
+* Centaur
+
+ * 45Ft Land Speed
+
+ * 10Ft Swim Speed
+
+ * Can't Swim
+
+ + 4 Charisma
+
+ + 3 Strength
+
+ + 3 Consitution
+
+ ^ Large ( 6 - 7Ft Tall / Long / 800 - 1000 pounds )
+
+
+* Angel :
+ 
+ * 35Ft Land Speed
+
+ * 20Ft Swim Speed
+
+ * 50Ft Flight Speed
+
+ + 5 Charisma
+
+ + 2 Dexterity
+
+ ^ Medium ( 4 - 6Ft / 100 - 200 Pounds )
+
+
+
+* Steampunk Robot :
+
+ *-#^ Customizeable
+
+
+
+* Vampire : 
+
+ * 30Ft Land Speed
+
+ * Can't Swim
+
+ * 20Ft Flight Speed
+
+ + 2 Charisma
+
+ # Can't go out during the Day
+
+ # 100% Water Environmental Damage
+
+ ^ Medium ( 4 - 6FT / 100 - 200 Pounds )
+
+
+
+* Demon :
+
+ * 35Ft Land Speed
+
+ * Can't Swim
+
+ * 50Ft Flight Speed
+
+ - 3 Charisma
+
+ + 2 Dexterity
+
+ # Fire / Heat Immunity
+
+ # 300% Water / Cool Environmental Damage
+
+ ^ Medium ( 4 - 6Ft / 100 - 200 Pounds )
+
+
+
+* Giant :
+
+ * 15Ft Land Speed
+
+ * Can't Swim
+
+ * Can't Fly
+
+ + 5 - Strength
+
+ - 2 - Dexterity
+
+ - 2 - Intelligence
+
+ - 5 - Charisma
+
+ # 100% Environmental Resistance
+
+ # Can't Stealth
+
+ ^ Massive ( 100 ft / 20 Tons )
