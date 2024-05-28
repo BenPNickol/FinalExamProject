@@ -465,9 +465,7 @@ def AbilitiesOne():
                               Energy = Energy / 1.5
                     except ValueError:
                               print('Please use an integer')
-                              AbDamage = int(input('How much damage does it do? ( Note : 20 is the maxium )'))
-                              if AbDamage > 20:
-                                        AbDamage = 20
+                              AbDamage = int(input('How much damage does it do?'))
                               print(AbDamage)
                               Energy = AbDamage * 2
                               Energy = Energy / 1.5
